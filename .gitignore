@@ -5,3 +5,4 @@ venv/
 venv(1)/
 *.keras
 credentials.json
+tf_env/
